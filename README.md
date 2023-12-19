@@ -42,10 +42,10 @@ On the battlefield, soldiers at times can find it difficult to identify potentia
 
 \videos - a place to store desired videos to be processed - video file auto downloads so expect this to be empty upon cloning this repo
 
-\models.zip - a place to store models which are finished training **MUST UNZIP FIRST**
+\models - a place to store models which are finished training **MUST Create**
 ```
 
-### Special Note on Directories: Our models themselves were too large to upload to git hub so the models folder which is zipped up should be unzipped by the following command
+### Special Note on Directories: Our models themselves were too large to upload to github so one must create a models folder once repo is cloned + train models using the eda_model_trainCNNS.ipynb and FasterRCNNModel files
 ```
 unzip models.zip
 ```
@@ -55,7 +55,7 @@ unzip models.zip
 # Set up and Running
 Note Since we were using colab a lot of the commands which were used to install libraries are included in the notebooks
 1. First download data from link
-2. Unzip model.zip into root directory
+2. Create a models folder
 3. Run desired files
  
 
