@@ -1,6 +1,7 @@
 # 🚀 MilitaryObjectDetection 🌟
 
 A Deep Learning Project Produced by 
+
 Arjun Rajpal
 
 Andrew Shao
